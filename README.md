@@ -47,15 +47,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+2. 
 [I did not use any outside resources.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+3. 
 [I didn't encounter any problems in particular. For the HTML and CSS part, I completed the instructions quickly and without encountering issues. I spent most of the remaining time with the coding of the JavaScript file, since I honestly studied it a few years ago and had to revise some concepts. Overall it was a simple exercise so I didn't run into any problems. The instruction were concise and clear.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+4. 
 [After completing my submission, the type of questions I would have, mainly focuses on which other programming languages could fit into this project, and are therefore related to the implementation of other programming languages to the project, and how it would work. I would also have additional questions regarding the JavaScript part, regarding the choiche of certain functions instead of others.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+5. 
 [There are many ways the project could be implemented. Personally, I would divide the game into levels, from the easiest to the most difficult. I would then create the main interface which shows the different levels of the game. Here, the player will see the levels that are unlocked and those which are not. I would also give differentiation to each level. For example, we can keep this format (remembering the sequence of colors) for the easiest levels, while reaching higher levels, we can find ourselves having to associate the name of people to their faces, or having to remember some cards of a deck.]
 
 
