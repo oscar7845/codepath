@@ -40,15 +40,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-
+<video src='https://imgur.com/jynO8Y1' width=180/>
 ![X](https://imgur.com/jynO8Y1)
-
+<video src='https://imgur.com/aP1eTeW' width=180/>
 ![X](https://imgur.com/aP1eTeW)
-
+<video src='https://imgur.com/H8MMeEs' width=180/>
 ![X](https://imgur.com/H8MMeEs)
-
+<video src='https://imgur.com/AOXihjy' width=180/>
 ![X](https://imgur.com/AOXihjy)
-
+<video src='https://imgur.com/MJQnAlx' width=180/>
 ![X](https://imgur.com/MJQnAlx)
 
 
