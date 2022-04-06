@@ -41,19 +41,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-*open file to view gif*
-
-![X](https://imgur.com/jynO8Y1)
-
-![X](https://imgur.com/aP1eTeW)
-
-![X](https://imgur.com/H8MMeEs)
-
-![X](https://imgur.com/AOXihjy)
-
-![X](https://imgur.com/MJQnAlx)
-
-[![Watch the video](https://imgur.com/MJQnAlx)](https://imgur.com/MJQnAlx)
+[![Watch the gif](https://imgur.com/jynO8Y1)](https://imgur.com/jynO8Y1)
+[![Watch the gif](https://imgur.com/aP1eTeW)](https://imgur.com/aP1eTeW)
+[![Watch the gif](https://imgur.com/H8MMeEs)](https://imgur.com/H8MMeEs)
+[![Watch the gif](https://imgur.com/AOXihjy)](https://imgur.com/AOXihjy)
+[![Watch the gif](https://imgur.com/MJQnAlx)](https://imgur.com/MJQnAlx)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
