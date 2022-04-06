@@ -53,7 +53,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![X](https://imgur.com/MJQnAlx)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://imgur.com/MJQnAlx)](https://imgur.com/MJQnAlx)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
