@@ -139,27 +139,3 @@ function guess(btn) {
     loseGame();
   }
 }
-document.getElementById("button1").onclick = function() {
-    document.getElementById("cat").style.visibility = "visible";
-}
-document.getElementById("button2").onclick = function() {
-    document.getElementById("sheep").style.visibility = "visible";
-}
-document.getElementById("button3").onclick = function() {
-    document.getElementById("snake").style.visibility = "visible";
-}
-document.getElementById("button4").onclick = function() {
-    document.getElementById("cow").style.visibility = "visible";
-}
-document.getElementById("button5").onclick = function() {
-    document.getElementById("lion").style.visibility = "visible";
-}
-document.getElementById("button6").onclick = function() {
-    document.getElementById("dog").style.visibility = "visible";
-}
-document.getElementById("button7").onclick = function() {
-    document.getElementById("bear").style.visibility = "visible";
-}
-document.getElementById("button8").onclick = function() {
-    document.getElementById("bird").style.visibility = "visible";
-}
