@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 * [ ] Playback speeds up on each turn
 * [X] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [X] Game button appearance change goes beyond color (e.g. add an image)
+* [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
@@ -58,7 +58,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-[I didn't encounter any problems in particular. For the HTML and CSS part, I completed the instructions pretty quickly and without encountering issues. I feel pretty confident about HTML and CSS, since this semester I'm taking a Website Development class that focuses on both. I spent most of the remaining time with the coding of the JavaScript file, since I honestly studied it a few years ago and had to revise some of the concepts. The required functionalities were simple exercises so I didn't run into any problems. I only encountered some difficulties in the optional functionalities. Some of them, such as using more than 4 functional buttons and buttons use a pitch other than the ones in the tutorial, were fast tasks. On the other hand, the task that required to implement pictures took more time, since I had to review the JavaScript part. I also tried to solve the other remaining optional features, but I couldn't finish them as I was able to complete the initial part but somehow I couldn't get the result I was hoping for. Overall, it was a fun exercise and the instruction were concise and clear.]
+[I didn't encounter any problems in particular. For the HTML and CSS part, I completed the instructions pretty quickly and without encountering issues. I feel pretty confident about HTML and CSS, since this semester I'm taking a Website Development class that focuses on both. I spent most of the remaining time with the coding of the JavaScript file, since I honestly studied it a few years ago and had to revise some of the concepts. The required functionalities were simple exercises so I didn't run into any problems. I only encountered some difficulties in the optional functionalities. Some of them, such as using more than 4 functional buttons and buttons use a pitch other than the ones in the tutorial, were fast tasks. On the other hand, I was almost able to complete the task that required to implement pictures, but couldn't get to complete the final part. I also tried to solve the other remaining optional features, but I couldn't finish them as I was able to complete the initial part but somehow I couldn't get the result I was hoping for. Overall, it was a fun exercise and the instruction were concise and clear.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
