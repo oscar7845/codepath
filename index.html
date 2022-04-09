@@ -8,10 +8,10 @@
     <title>Remember the sequence!</title>
 
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="/style.css" />
 
     <!-- import the webpage's javascript file -->
-    <script src="script.js" defer></script>
+    <script src="/script.js" defer></script>
   </head>
   <body>
     <!-- this is the start of content -->
@@ -19,18 +19,30 @@
       Remember the sequence Game
     </h1>
     <p>
-      Welcome to the game! Repeat back the pattern by pressing the buttons.
+      Welcome to the game! Repeat back the pattern by pressing the buttons. Good luck!
       <br>
       <br>
       <button id="startBtn" onclick="startGame()">Start</button>
       <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
       <div id="gameButtonArea">
-        <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
-        <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
-        <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
-        <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+        <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"> 
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/cat.jpg?v=1649427930530" id="cat"></button>
+        <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"> 
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/sheep.jpg?v=1649427924805" id="sheep"></button>
+        <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"> 
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/snake.jpg?v=1649427918947" id="snake"></button>
+        <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"> 
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/cow.jpg?v=1649427934006" id="cow"></button>
+        <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"> 
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/lion.jpg?v=1649427942372" id="lion"></button>
+        <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()">
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/dog.jpg?v=1649427969466" id="dog"></button>
+        <button id="button7" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone()"> 
+          <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/bear.jpg?v=1649427990108" id="bear"></button>
+        <button id="button8" onclick="guess(8)" onmousedown="startTone(8)" onmouseup="stopTone()">
+           <img src="https://cdn.glitch.global/46d006a3-aaad-4ff5-8e71-fc716f44a8b9/bird.jpg?v=1649428117921" id="bird"></button>
+
       </div>
- 
     </p>
   </body>
 </html>
