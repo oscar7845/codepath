@@ -6,7 +6,9 @@ html {
   font-size: 16px;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -15,52 +17,95 @@ body {
   margin: 2em;
   font-family: helvetica, arial, sans-serif;
   line-height: 1.5;
-    background-color: rgb(111, 143, 175);
-    color: white; 
+  background-color: rgb(111, 143, 175);
+  color: white;
 }
 h1 {
-font-family: verdana, arial, sans-serif; 
+  font-family: verdana, arial, sans-serif;
 }
 button {
-padding: 10px;
-border-radius: 15px;
+  padding: 10px;
+  border-radius: 15px;
 }
 .hidden {
   display: none;
 }
 #button1 {
-    background: lightgreen;
+  background: lightgreen;
 }
 #button2 {
-    background: lightblue;
+  background: lightblue;
 }
 #button3 {
-    background: pink;
+  background: pink;
 }
 #button4 {
-    background: lightyellow;
+  background: lightyellow;
 }
-#button1:active, #button1.lit {
-    background:green;
+#button5 {
+  background: #FFD580;
 }
-#button2:active, #button2.lit {
-    background:blue;
+#button6 {
+  background: #E0FFFF;
 }
-#button3:active, #button3.lit {
-    background:red;
+#button7 {
+  background: #CBC3E3;
 }
-#button4:active, #button4.lit {
-    background:yellow;
+#button8 {
+  background: #C4A484;
+}
+#button1:active,
+#button1.lit {
+  background: green;
+}
+#button2:active,
+#button2.lit {
+  background: blue;
+}
+#button3:active,
+#button3.lit {
+  background: red;
+}
+#button4:active,
+#button4.lit {
+  background: yellow;
+}
+#button5:active,
+#button5.lit {
+  background: orange;
+}
+#button6:active,
+#button6.lit {
+  background: cyan;
+}
+#button7:active,
+#button7.lit {
+  background: purple;
+}
+#button8:active,
+#button8.lit {
+  background: #b5651d;
 }
 
 #gameButtonArea > button {
-  width:200px;
-  height:200px;
-  margin:2px;
+  width: 200px;
+  height: 200px;
+  margin: 2px;
 }
+
+
 /* images and videos max out at full width */
 img,
 video {
-  height: auto;
-  max-width: 100%;
+  height:100%;
+  width:100%;
+  margin:auto;
 }
+#cat{ visibility: hidden; }
+#sheep{ visibility: hidden; }
+#snake{ visibility: hidden; }
+#cow{ visibility: hidden; }
+#lion{ visibility: hidden; }
+#dog{ visibility: hidden; }
+#bear{ visibility: hidden; }
+#bird{ visibility: hidden; }
