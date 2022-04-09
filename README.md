@@ -4,7 +4,7 @@
 
 Submitted by: **OSCAR CALLO VON PLATEN**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 https://shrouded-patch-buzzard.glitch.me/
 
 https://glitch.com/edit/#!/shrouded-patch-buzzard?path=index.html%3A1%3A0
