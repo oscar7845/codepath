@@ -62,7 +62,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-[After completing my submission, the type of questions I would have, mainly focuses on which other programming languages could fit into this project, and are therefore related to the implementation of other programming languages to the project, and how it would work. I would also have additional questions regarding the JavaScript part, regarding the choiche of certain functions instead of others.]
+[After completing my submission, the type of questions I would have, mainly focuses on which other programming languages could fit into this type of project, and are therefore related to the implementation of other programming languages to the project, and what other functionality could be implemented using them. I would also have additional questions regarding the JavaScript part, mainly regarding the choiche of certain functions instead of others.
+The use of "cookies" on websites, has been a very hot topic lately since Google has devised a new strategy to replace them. Therefore my questions are: is the use of cookies ethical? Do cookies violate privacy?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
