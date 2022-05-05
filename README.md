@@ -73,7 +73,7 @@ The use of "cookies" on websites, has been a very hot topic lately since Google 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://app.videoform.com/form/uPReF9Qx9Z39lMTN)
+[My 5-minute Interview Recording]()
 
 
 ## License
